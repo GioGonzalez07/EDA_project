@@ -24,7 +24,7 @@ For this project, we are using the nf_base environment.
 
 We use draw.io for our [flow chart](https://app.diagrams.net/#G1NOqs27dcVqgtlMyDEF9AQUlPIoIWBoH1#%7B%22pageId%22%3A%223aLx8Cu60_MIACBAz9Yl%22%7D).
 
-## Flow Chart
+## Documents
 
 [Brainstorm document](https://docs.google.com/document/d/1uiBcnAYfK6H6_vff7eo-2SPqDq0JtQCdqmx785tTuNQ/edit?usp=sharing)
 
