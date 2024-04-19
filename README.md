@@ -12,3 +12,9 @@ Give the respective names:
 - campaign_data.csv
 - order_process_data.csv
 - interdata_study.csv
+
+
+
+## Day 1
+
+Goal: build Chart Flow and KPIs
