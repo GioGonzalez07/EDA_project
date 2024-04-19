@@ -10,7 +10,9 @@ Give the respective names:
 
 - order.csv
 - campaign_data.csv
+  - this is data of order arrival
 - order_process_data.csv
+  -
 - interdata_study.csv
 
 ## Environment
