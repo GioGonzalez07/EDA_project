@@ -1,7 +1,7 @@
 # Project - Data Analysis
 
 This project is centred around exploratory data
-analysis [(EDA)](image.pdf) techniques and statistical analysis.
+analysis [(EDA)](https://github.com/GioGonzalez07/EDA_project/blob/main/image.png) techniques and statistical analysis.
 
 ## Topic and Task
 
