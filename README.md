@@ -1,6 +1,6 @@
 # EDA_project
 
-Assignment description - https://github.com/GioGonzalez07/EDA_project/blob/main/Assignment.md
+[Assignment description](https://github.com/GioGonzalez07/EDA_project/tree/main/assigment)
 
 ## Data folder
 
@@ -10,15 +10,15 @@ Give the respective names:
 
 - order.csv
 - campaign_data.csv
-  - this is data of order arrival
+  - this is data on order arrival
 - order_process_data.csv
   - data from the warehouse
 - interdata_study.csv
-  - data collected form interns
+  - data collected from interns
 
 ## Environment
 
-For this project we are using the nf_base environment.
+For this project, we are using the nf_base environment.
 
 ## Flow Chart
 
@@ -35,4 +35,4 @@ Goals: build Chart Flow and KPIs
 ### Sub-groups:
 
 - Giovanna & Susanne - KPIs
-- Matt & Stepahn - Flow Chart
+- Matt & Stephan - Flow Chart
