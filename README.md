@@ -13,7 +13,9 @@ Give the respective names:
 - order_process_data.csv
 - interdata_study.csv
 
+## Environment
 
+For this project we are using the nf_base environment.
 
 ## Day 1
 
