@@ -19,13 +19,13 @@ For this project we are using the nf_base environment.
 
 ## Flow Chart
 
-We use lucid for our [flow chart](https://lucid.app/lucidchart/3f720358-65f5-4743-a75c-c322bc5723e3/edit?invitationId=inv_4b1b293f-619c-44ae-b5bc-939e6ad71afb&referringApp=slack&page=m-5o7ONTd-nK#).
+We use lucid for our [flow chart](https://app.diagrams.net/#G1NOqs27dcVqgtlMyDEF9AQUlPIoIWBoH1#%7B%22pageId%22%3A%223aLx8Cu60_MIACBAz9Yl%22%7D).
 
 ## Day 1
 
-Goal: build Chart Flow and KPIs
+Goals: build Chart Flow and KPIs
 
-Sub-groups:
+### Sub-groups:
 
 - Giovanna & Susanne - KPIs
 - Matt & Stepahn - Flow Chart
