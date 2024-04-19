@@ -12,8 +12,9 @@ Give the respective names:
 - campaign_data.csv
   - this is data of order arrival
 - order_process_data.csv
-  -
+  - data from the warehouse
 - interdata_study.csv
+  - data collected form interns
 
 ## Environment
 
@@ -22,6 +23,10 @@ For this project we are using the nf_base environment.
 ## Flow Chart
 
 We use lucid for our [flow chart](https://app.diagrams.net/#G1NOqs27dcVqgtlMyDEF9AQUlPIoIWBoH1#%7B%22pageId%22%3A%223aLx8Cu60_MIACBAz9Yl%22%7D).
+
+## Flow Chart
+
+[Brainstorm document](https://docs.google.com/document/d/1uiBcnAYfK6H6_vff7eo-2SPqDq0JtQCdqmx785tTuNQ/edit?usp=sharing)
 
 ## Day 1
 
