@@ -20,6 +20,8 @@ Give the respective names:
 
 For this project, we are using the nf_base environment.
 
+## How to work with the code
+
 ## Flow Chart
 
 We use draw.io for our [flow chart](https://app.diagrams.net/#G1NOqs27dcVqgtlMyDEF9AQUlPIoIWBoH1#%7B%22pageId%22%3A%223aLx8Cu60_MIACBAz9Yl%22%7D).
