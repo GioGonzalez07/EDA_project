@@ -1,0 +1,205 @@
+order_id,order_date,origin_channel,region,category,sub_category,ready_to_ship_date,pickup_date,expected_ready_to_ship_date,order_year,order_to_ready,order_to_ready_int,order_weekday,ready_weekday,order_weekday_int,order_to_ready_int_no_weekend
+CA-2020-119004,2020-11-23,Email,South,Special Projects Muesil,Gluten Free,2020-11-30,2020-12-02,2020-11-25,2020,7 days,7,Monday,Monday,1,5
+CA-2019-145625,2019-09-11,Email,West,Special Projects Muesil,Gluten Free,2019-09-17,2019-09-18,2019-09-13,2019,6 days,6,Wednesday,Tuesday,3,4
+CA-2020-135307,2020-11-26,Email,Central,Special Projects Muesil,Gluten Free,2020-11-27,2020-11-27,2020-11-28,2020,1 days,1,Thursday,Friday,4,1
+CA-2019-102981,2019-09-06,Email,East,Special Projects Muesil,Gluten Free,2019-09-09,2019-09-11,2019-09-08,2019,3 days,3,Friday,Monday,5,1
+US-2020-155425,2020-11-10,Sales,West,Special Projects Muesil,Gluten Free,2020-11-11,2020-11-12,2020-11-12,2020,1 days,1,Tuesday,Wednesday,2,1
+US-2020-132444,2020-11-18,Email,West,Special Projects Muesil,Gluten Free,2020-11-23,2020-11-23,2020-11-20,2020,5 days,5,Wednesday,Monday,3,3
+CA-2020-122504,2020-11-07,Facebook,West,Special Projects Muesil,Gluten Free,2020-11-09,2020-11-12,2020-11-09,2020,2 days,2,Saturday,Monday,6,0
+CA-2020-159597,2020-11-09,Sales,West,Special Projects Muesil,Gluten Free,2020-11-16,2020-11-18,2020-11-11,2020,7 days,7,Monday,Monday,1,5
+US-2020-165344,2020-11-13,Sales,East,Special Projects Muesil,Gluten Free,2020-11-16,2020-11-16,2020-11-15,2020,3 days,3,Friday,Monday,5,1
+CA-2020-134915,2020-11-12,Facebook,West,Special Projects Muesil,Gluten Free,2020-11-12,2020-11-13,2020-11-14,2020,0 days,0,Thursday,Thursday,4,0
+CA-2020-164168,2020-11-12,Facebook,Central,Special Projects Muesil,Gluten Free,2020-11-18,2020-11-20,2020-11-14,2020,6 days,6,Thursday,Wednesday,4,4
+CA-2020-152912,2020-11-09,Sales,East,Special Projects Muesil,Gluten Free,2020-11-12,2020-11-13,2020-11-11,2020,3 days,3,Monday,Thursday,1,3
+CA-2020-122644,2020-11-12,Sales,East,Special Projects Muesil,Gluten Free,2020-11-17,2020-11-18,2020-11-14,2020,5 days,5,Thursday,Tuesday,4,3
+CA-2020-152737,2020-11-07,Email,West,Special Projects Muesil,Gluten Free,2020-11-09,2020-11-12,2020-11-09,2020,2 days,2,Saturday,Monday,6,0
+CA-2020-160416,2020-11-13,Facebook,East,Special Projects Muesil,Gluten Free,2020-11-18,2020-11-20,2020-11-15,2020,5 days,5,Friday,Wednesday,5,3
+CA-2019-142370,2019-09-19,Email,South,Special Projects Muesil,Gluten Free,2019-09-23,2019-09-25,2019-09-21,2019,4 days,4,Thursday,Monday,4,2
+CA-2020-143567,2020-11-02,Sales,South,Special Projects Muesil,Gluten Free,2020-11-05,2020-11-06,2020-11-04,2020,3 days,3,Monday,Thursday,1,3
+CA-2020-142090,2020-11-30,Email,South,Special Projects Muesil,Gluten Free,2020-12-07,2020-12-09,2020-12-02,2020,7 days,7,Monday,Monday,1,5
+US-2020-153948,2020-11-06,Facebook,West,Special Projects Muesil,Gluten Free,2020-11-06,2020-11-06,2020-11-08,2020,0 days,0,Friday,Friday,5,0
+CA-2019-106950,2019-09-02,Email,South,Special Projects Muesil,Gluten Free,2019-09-06,2019-09-09,2019-09-04,2019,4 days,4,Monday,Friday,1,4
+CA-2020-141138,2020-11-10,Email,West,Special Projects Muesil,Gluten Free,2020-11-16,2020-11-18,2020-11-12,2020,6 days,6,Tuesday,Monday,2,4
+CA-2020-120404,2020-11-20,Sales,East,Special Projects Muesil,Gluten Free,2020-11-24,2020-11-25,2020-11-22,2020,4 days,4,Friday,Tuesday,5,2
+US-2020-105998,2020-11-03,Facebook,West,Special Projects Muesil,Gluten Free,2020-11-05,2020-11-06,2020-11-05,2020,2 days,2,Tuesday,Thursday,2,2
+CA-2020-107174,2020-11-06,Facebook,West,Special Projects Muesil,Gluten Free,2020-11-13,2020-11-16,2020-11-08,2020,7 days,7,Friday,Friday,5,5
+US-2020-132220,2020-11-12,Sales,West,Special Projects Muesil,Gluten Free,2020-11-16,2020-11-18,2020-11-14,2020,4 days,4,Thursday,Monday,4,2
+US-2020-102904,2020-11-13,Email,South,Special Projects Muesil,Gluten Free,2020-11-20,2020-11-23,2020-11-15,2020,7 days,7,Friday,Friday,5,5
+CA-2020-159667,2020-11-09,Facebook,South,Special Projects Muesil,Gluten Free,2020-11-13,2020-11-16,2020-11-11,2020,4 days,4,Monday,Friday,1,4
+CA-2020-123624,2020-11-13,Email,West,Special Projects Muesil,Gluten Free,2020-11-17,2020-11-18,2020-11-15,2020,4 days,4,Friday,Tuesday,5,2
+CA-2020-102610,2020-11-04,Email,South,Special Projects Muesil,Gluten Free,2020-11-09,2020-11-12,2020-11-06,2020,5 days,5,Wednesday,Monday,3,3
+CA-2019-142524,2019-09-04,Email,Central,Special Projects Muesil,Gluten Free,2019-09-09,2019-09-11,2019-09-06,2019,5 days,5,Wednesday,Monday,3,3
+US-2020-122672,2020-11-04,Sales,East,Special Projects Muesil,Gluten Free,2020-11-09,2020-11-12,2020-11-06,2020,5 days,5,Wednesday,Monday,3,3
+CA-2020-164028,2020-11-24,Email,West,Special Projects Muesil,Gluten Free,2020-11-30,2020-12-02,2020-11-26,2020,6 days,6,Tuesday,Monday,2,4
+CA-2019-102932,2019-09-19,Facebook,East,Power Muesli,Hunger Buster,2019-09-23,2019-09-25,2019-09-21,2019,4 days,4,Thursday,Monday,4,2
+CA-2020-164364,2020-11-12,Email,West,Power Muesli,Hunger Buster,2020-11-16,2020-11-18,2020-11-14,2020,4 days,4,Thursday,Monday,4,2
+US-2019-114888,2019-09-19,Facebook,West,Power Muesli,Hunger Buster,2019-09-24,2019-09-25,2019-09-21,2019,5 days,5,Thursday,Tuesday,4,3
+CA-2019-123120,2019-09-04,Email,East,Power Muesli,Hunger Buster,2019-09-09,2019-09-11,2019-09-06,2019,5 days,5,Wednesday,Monday,3,3
+US-2020-168116,2020-11-04,Sales,South,Special Projects Muesil,Low Sugar,2020-11-04,2020-11-04,2020-11-06,2020,0 days,0,Wednesday,Wednesday,3,0
+CA-2020-136308,2020-11-16,Sales,West,Special Projects Muesil,Low Sugar,2020-11-16,2020-11-16,2020-11-18,2020,0 days,0,Monday,Monday,1,0
+US-2020-114657,2020-11-16,Facebook,East,Special Projects Muesil,Low Sugar,2020-11-23,2020-11-25,2020-11-18,2020,7 days,7,Monday,Monday,1,5
+CA-2020-110443,2020-11-21,Email,West,Special Projects Muesil,Low Sugar,2020-11-27,2020-11-30,2020-11-23,2020,6 days,6,Saturday,Friday,6,4
+CA-2019-144764,2019-09-02,Email,Central,Special Projects Muesil,Low Sugar,2019-09-09,2019-09-11,2019-09-04,2019,7 days,7,Monday,Monday,1,5
+CA-2020-103380,2020-11-21,Facebook,West,Power Muesli,Maple Sweetened,2020-11-27,2020-11-30,2020-11-23,2020,6 days,6,Saturday,Friday,6,4
+CA-2019-116540,2019-09-02,Email,Central,Power Muesli,Maple Sweetened,2019-09-02,2019-09-03,2019-09-04,2019,0 days,0,Monday,Monday,1,0
+US-2020-163790,2020-11-02,Facebook,West,Power Muesli,Maple Sweetened,2020-11-04,2020-11-06,2020-11-04,2020,2 days,2,Monday,Wednesday,1,2
+CA-2020-149944,2020-11-12,Email,West,Power Muesli,Maple Sweetened,2020-11-16,2020-11-18,2020-11-14,2020,4 days,4,Thursday,Monday,4,2
+CA-2019-149223,2019-09-06,Sales,Central,Power Muesli,Mega Protein,2019-09-11,2019-09-13,2019-09-08,2019,5 days,5,Friday,Wednesday,5,3
+US-2020-124926,2020-11-13,Facebook,Central,Power Muesli,Mega Protein,2020-11-18,2020-11-20,2020-11-15,2020,5 days,5,Friday,Wednesday,5,3
+CA-2020-165687,2020-11-17,Email,South,Power Muesli,Mega Protein,2020-11-23,2020-11-25,2020-11-19,2020,6 days,6,Tuesday,Monday,2,4
+CA-2020-110842,2020-11-11,Email,West,Power Muesli,Mega Protein,2020-11-16,2020-11-18,2020-11-13,2020,5 days,5,Wednesday,Monday,3,3
+CA-2020-167941,2020-11-06,Email,South,Power Muesli,Mega Protein,2020-11-09,2020-11-12,2020-11-08,2020,3 days,3,Friday,Monday,5,1
+CA-2020-155607,2020-11-26,Facebook,East,Power Muesli,Mega Protein,2020-11-30,2020-12-02,2020-11-28,2020,4 days,4,Thursday,Monday,4,2
+CA-2020-127782,2020-11-02,Sales,East,Power Muesli,Mega Protein,2020-11-06,2020-11-09,2020-11-04,2020,4 days,4,Monday,Friday,1,4
+CA-2019-149783,2019-09-04,Email,South,Power Muesli,Mega Protein,2019-09-09,2019-09-11,2019-09-06,2019,5 days,5,Wednesday,Monday,3,3
+CA-2020-104864,2020-11-18,Sales,South,Power Muesli,Mega Protein,2020-11-23,2020-11-25,2020-11-20,2020,5 days,5,Wednesday,Monday,3,3
+CA-2020-167227,2020-11-02,Email,Central,Power Muesli,Mega Protein,2020-11-05,2020-11-06,2020-11-04,2020,3 days,3,Monday,Thursday,1,3
+CA-2019-145611,2019-09-20,Email,East,Power Muesli,Mega Protein,2019-09-24,2019-09-25,2019-09-22,2019,4 days,4,Friday,Tuesday,5,2
+CA-2020-150266,2020-11-25,Email,Central,Power Muesli,Mega Protein,2020-11-30,2020-12-02,2020-11-27,2020,5 days,5,Wednesday,Monday,3,3
+CA-2020-150959,2020-11-11,Email,Central,Power Muesli,No Taste All Power,2020-11-13,2020-11-13,2020-11-13,2020,2 days,2,Wednesday,Friday,3,2
+CA-2020-121615,2020-11-03,Email,Central,Power Muesli,No Taste All Power,2020-11-09,2020-11-12,2020-11-05,2020,6 days,6,Tuesday,Monday,2,4
+CA-2020-119746,2020-11-23,Email,Central,Power Muesli,No Taste All Power,2020-11-27,2020-11-30,2020-11-25,2020,4 days,4,Monday,Friday,1,4
+CA-2020-122490,2020-11-13,Email,West,Power Muesli,No Taste All Power,2020-11-18,2020-11-20,2020-11-15,2020,5 days,5,Friday,Wednesday,5,3
+CA-2019-150007,2019-09-11,Email,Central,Power Muesli,No Taste All Power,2019-09-16,2019-09-18,2019-09-13,2019,5 days,5,Wednesday,Monday,3,3
+US-2019-147711,2019-09-03,Email,East,Power Muesli,No Taste All Power,2019-09-09,2019-09-11,2019-09-05,2019,6 days,6,Tuesday,Monday,2,4
+CA-2019-165918,2019-09-10,Email,West,Power Muesli,No Taste All Power,2019-09-16,2019-09-18,2019-09-12,2019,6 days,6,Tuesday,Monday,2,4
+CA-2020-107825,2020-11-18,Sales,Central,Power Muesli,No Taste All Power,2020-11-18,2020-11-18,2020-11-20,2020,0 days,0,Wednesday,Wednesday,3,0
+CA-2020-160514,2020-11-12,Sales,West,Power Muesli,Nuts and more,2020-11-16,2020-11-18,2020-11-14,2020,4 days,4,Thursday,Monday,4,2
+CA-2020-142636,2020-11-03,Sales,West,Power Muesli,Nuts and more,2020-11-09,2020-11-12,2020-11-05,2020,6 days,6,Tuesday,Monday,2,4
+CA-2020-162929,2020-11-19,Facebook,East,Power Muesli,Nuts and more,2020-11-23,2020-11-23,2020-11-21,2020,4 days,4,Thursday,Monday,4,2
+CA-2019-121223,2019-09-11,Sales,East,Power Muesli,Nuts and more,2019-09-13,2019-09-16,2019-09-13,2019,2 days,2,Wednesday,Friday,3,2
+US-2020-110576,2020-11-28,Facebook,East,Power Muesli,Nuts and more,2020-12-04,2020-12-07,2020-11-30,2020,6 days,6,Saturday,Friday,6,4
+CA-2020-166436,2020-11-24,Sales,East,Power Muesli,Nuts and more,2020-11-30,2020-12-02,2020-11-26,2020,6 days,6,Tuesday,Monday,2,4
+CA-2020-130386,2020-11-12,Email,Central,Power Muesli,Nuts and more,2020-11-18,2020-11-20,2020-11-14,2020,6 days,6,Thursday,Wednesday,4,4
+US-2019-118780,2019-09-10,Facebook,East,Power Muesli,Nuts and more,2019-09-16,2019-09-18,2019-09-12,2019,6 days,6,Tuesday,Monday,2,4
+CA-2019-130267,2019-09-19,Email,West,Power Muesli,Nuts and more,2019-09-23,2019-09-25,2019-09-21,2019,4 days,4,Thursday,Monday,4,2
+US-2020-157896,2020-11-16,Email,East,Power Muesli,Nuts and more,2020-11-16,2020-11-16,2020-11-18,2020,0 days,0,Monday,Monday,1,0
+CA-2019-132143,2019-09-03,Sales,East,Power Muesli,Nuts and more,2019-09-05,2019-09-06,2019-09-05,2019,2 days,2,Tuesday,Thursday,2,2
+CA-2019-155187,2019-09-24,Sales,West,Power Muesli,Nuts and more,2019-09-26,2019-09-27,2019-09-26,2019,2 days,2,Tuesday,Thursday,2,2
+CA-2020-125290,2020-11-06,Facebook,Central,Power Muesli,Nuts and more,2020-11-10,2020-11-12,2020-11-08,2020,4 days,4,Friday,Tuesday,5,2
+CA-2019-100244,2019-09-20,Sales,West,Power Muesli,Nuts and more,2019-09-24,2019-09-25,2019-09-22,2019,4 days,4,Friday,Tuesday,5,2
+CA-2020-154109,2020-11-06,Email,East,Power Muesli,Nuts and more,2020-11-11,2020-11-13,2020-11-08,2020,5 days,5,Friday,Wednesday,5,3
+CA-2020-100811,2020-11-21,Email,East,Power Muesli,Nuts and more,2020-11-26,2020-11-27,2020-11-23,2020,5 days,5,Saturday,Thursday,6,3
+CA-2020-111556,2020-11-20,Email,East,Power Muesli,Nuts and more,2020-11-23,2020-11-23,2020-11-22,2020,3 days,3,Friday,Monday,5,1
+CA-2020-168641,2020-11-24,Email,East,Power Muesli,Nuts and more,2020-12-01,2020-12-02,2020-11-26,2020,7 days,7,Tuesday,Tuesday,2,5
+CA-2019-123932,2019-09-06,Sales,Central,Power Muesli,Nuts and more,2019-09-12,2019-09-13,2019-09-08,2019,6 days,6,Friday,Thursday,5,4
+CA-2020-103009,2020-11-03,Sales,South,Power Muesli,Nuts and more,2020-11-05,2020-11-06,2020-11-05,2020,2 days,2,Tuesday,Thursday,2,2
+CA-2019-141551,2019-09-24,Email,Central,Power Muesli,Nuts and more,2019-09-30,2019-10-02,2019-09-26,2019,6 days,6,Tuesday,Monday,2,4
+CA-2020-161459,2020-11-25,Sales,West,Power Muesli,Nuts and more,2020-11-30,2020-12-02,2020-11-27,2020,5 days,5,Wednesday,Monday,3,3
+CA-2020-155159,2020-11-25,Email,South,Power Muesli,Nuts and more,2020-11-30,2020-12-02,2020-11-27,2020,5 days,5,Wednesday,Monday,3,3
+CA-2019-123176,2019-09-27,Email,South,Power Muesli,Nuts and more,2019-09-30,2019-10-02,2019-09-29,2019,3 days,3,Friday,Monday,5,1
+CA-2019-143476,2019-09-11,Sales,West,Power Muesli,Nuts and more,2019-09-13,2019-09-13,2019-09-13,2019,2 days,2,Wednesday,Friday,3,2
+CA-2020-157196,2020-11-05,Email,West,Power Muesli,Nuts and more,2020-11-09,2020-11-12,2020-11-07,2020,4 days,4,Thursday,Monday,4,2
+CA-2020-159506,2020-11-27,Sales,Central,Power Muesli,Nuts and more,2020-12-02,2020-12-04,2020-11-29,2020,5 days,5,Friday,Wednesday,5,3
+CA-2020-130834,2020-11-03,Email,South,Power Muesli,Nuts and more,2020-11-06,2020-11-09,2020-11-05,2020,3 days,3,Tuesday,Friday,2,3
+US-2020-155866,2020-11-17,Email,East,Power Muesli,Nuts and more,2020-11-23,2020-11-25,2020-11-19,2020,6 days,6,Tuesday,Monday,2,4
+CA-2020-104136,2020-11-01,Email,East,Power Muesli,Nuts and more,2020-11-05,2020-11-06,2020-11-03,2020,4 days,4,Sunday,Thursday,7,3
+CA-2020-100622,2020-11-03,Email,South,Power Muesli,Nuts and more,2020-11-09,2020-11-12,2020-11-05,2020,6 days,6,Tuesday,Monday,2,4
+CA-2020-156622,2020-11-23,Sales,Central,Power Muesli,Nuts and more,2020-11-26,2020-11-27,2020-11-25,2020,3 days,3,Monday,Thursday,1,3
+CA-2020-162250,2020-11-24,Email,West,Power Muesli,Nuts and more,2020-11-24,2020-11-25,2020-11-26,2020,0 days,0,Tuesday,Tuesday,2,0
+CA-2020-102925,2020-11-05,Email,East,Power Muesli,Nuts and more,2020-11-10,2020-11-12,2020-11-07,2020,5 days,5,Thursday,Tuesday,4,3
+CA-2019-117604,2019-09-04,Email,South,Power Muesli,Nuts and more,2019-09-09,2019-09-11,2019-09-06,2019,5 days,5,Wednesday,Monday,3,3
+US-2020-125808,2020-11-12,Email,West,Power Muesli,Nuts and more,2020-11-16,2020-11-18,2020-11-14,2020,4 days,4,Thursday,Monday,4,2
+CA-2019-158099,2019-09-03,Facebook,East,Special Projects Muesil,Only Oats,2019-09-05,2019-09-06,2019-09-05,2019,2 days,2,Tuesday,Thursday,2,2
+CA-2020-122700,2020-11-26,Email,East,Special Projects Muesil,Only Oats,2020-11-30,2020-12-02,2020-11-28,2020,4 days,4,Thursday,Monday,4,2
+CA-2020-121468,2020-11-19,Email,West,Special Projects Muesil,Only Oats,2020-11-20,2020-11-20,2020-11-21,2020,1 days,1,Thursday,Friday,4,1
+US-2020-116659,2020-11-12,Sales,East,Special Projects Muesil,Only Oats,2020-11-12,2020-11-13,2020-11-14,2020,0 days,0,Thursday,Thursday,4,0
+CA-2019-146206,2019-09-10,Email,Central,Special Projects Muesil,Only Oats,2019-09-16,2019-09-18,2019-09-12,2019,6 days,6,Tuesday,Monday,2,4
+CA-2020-104640,2020-11-10,Sales,East,Special Projects Muesil,Only Oats,2020-11-16,2020-11-18,2020-11-12,2020,6 days,6,Tuesday,Monday,2,4
+CA-2020-114258,2020-11-05,Sales,Central,Special Projects Muesil,Only Oats,2020-11-10,2020-11-12,2020-11-07,2020,5 days,5,Thursday,Tuesday,4,3
+CA-2020-147760,2020-11-04,Sales,South,Special Projects Muesil,Only Oats,2020-11-05,2020-11-06,2020-11-06,2020,1 days,1,Wednesday,Thursday,3,1
+CA-2019-153157,2019-09-11,Email,Central,Special Projects Muesil,Only Oats,2019-09-16,2019-09-16,2019-09-13,2019,5 days,5,Wednesday,Monday,3,3
+CA-2020-105333,2020-11-30,Facebook,East,Special Projects Muesil,Only Oats,2020-12-04,2020-12-07,2020-12-02,2020,4 days,4,Monday,Friday,1,4
+CA-2020-161130,2020-11-03,Sales,South,Special Projects Muesil,Only Oats,2020-11-09,2020-11-12,2020-11-05,2020,6 days,6,Tuesday,Monday,2,4
+CA-2019-112277,2019-09-10,Sales,South,Special Projects Muesil,Only Oats,2019-09-16,2019-09-18,2019-09-12,2019,6 days,6,Tuesday,Monday,2,4
+CA-2020-141439,2020-11-26,Facebook,Central,Special Projects Muesil,Only Oats,2020-12-01,2020-12-02,2020-11-28,2020,5 days,5,Thursday,Tuesday,4,3
+US-2020-118598,2020-11-16,Email,East,Special Projects Muesil,Only Oats,2020-11-16,2020-11-16,2020-11-18,2020,0 days,0,Monday,Monday,1,0
+US-2020-116491,2020-11-11,Email,Central,Special Projects Muesil,Only Oats,2020-11-13,2020-11-13,2020-11-13,2020,2 days,2,Wednesday,Friday,3,2
+CA-2020-157420,2020-11-21,Email,Central,Special Projects Muesil,Only Oats,2020-11-23,2020-11-23,2020-11-23,2020,2 days,2,Saturday,Monday,6,0
+CA-2019-126732,2019-09-02,Email,West,Special Projects Muesil,Only Oats,2019-09-06,2019-09-09,2019-09-04,2019,4 days,4,Monday,Friday,1,4
+CA-2019-102162,2019-09-11,Email,South,Special Projects Muesil,Organic,2019-09-16,2019-09-18,2019-09-13,2019,5 days,5,Wednesday,Monday,3,3
+CA-2019-129630,2019-09-04,Email,West,Special Projects Muesil,Organic,2019-09-04,2019-09-04,2019-09-06,2019,0 days,0,Wednesday,Wednesday,3,0
+CA-2019-133123,2019-09-06,Email,South,Power Muesli,Power Clean Fibre Boost,2019-09-11,2019-09-13,2019-09-08,2019,5 days,5,Friday,Wednesday,5,3
+CA-2019-100944,2019-09-24,Sales,West,Power Muesli,Power Clean Fibre Boost,2019-09-30,2019-10-02,2019-09-26,2019,6 days,6,Tuesday,Monday,2,4
+CA-2020-160122,2020-11-18,Email,Central,Power Muesli,Power Clean Fibre Boost,2020-11-23,2020-11-25,2020-11-20,2020,5 days,5,Wednesday,Monday,3,3
+CA-2019-106278,2019-09-02,Email,West,Power Muesli,Power Clean Fibre Boost,2019-09-05,2019-09-06,2019-09-04,2019,3 days,3,Monday,Thursday,1,3
+US-2020-118157,2020-11-14,Facebook,Central,Power Muesli,Power Clean Fibre Boost,2020-11-19,2020-11-20,2020-11-16,2020,5 days,5,Saturday,Thursday,6,3
+US-2020-128118,2020-11-24,Sales,South,Power Muesli,Power Clean Fibre Boost,2020-12-01,2020-12-02,2020-11-26,2020,7 days,7,Tuesday,Tuesday,2,5
+CA-2019-130225,2019-09-11,Email,Central,Power Muesli,Power Clean Fibre Boost,2019-09-17,2019-09-18,2019-09-13,2019,6 days,6,Wednesday,Tuesday,3,4
+CA-2020-107720,2020-11-06,Facebook,East,Power Muesli,Steel Cut,2020-11-13,2020-11-16,2020-11-08,2020,7 days,7,Friday,Friday,5,5
+CA-2020-119305,2020-11-30,Email,South,Power Muesli,Steel Cut,2020-12-04,2020-12-07,2020-12-02,2020,4 days,4,Monday,Friday,1,4
+CA-2019-163986,2019-09-03,Email,Central,Power Muesli,Steel Cut,2019-09-10,2019-09-11,2019-09-05,2019,7 days,7,Tuesday,Tuesday,2,5
+CA-2020-137022,2020-11-16,Email,West,Power Muesli,Steel Cut,2020-11-23,2020-11-25,2020-11-18,2020,7 days,7,Monday,Monday,1,5
+CA-2020-126242,2020-11-19,Email,West,Power Muesli,Steel Cut,2020-11-24,2020-11-25,2020-11-21,2020,5 days,5,Thursday,Tuesday,4,3
+CA-2019-164154,2019-09-11,Facebook,East,Power Muesli,Steel Cut,2019-09-17,2019-09-18,2019-09-13,2019,6 days,6,Wednesday,Tuesday,3,4
+CA-2019-145240,2019-09-06,Email,Central,Power Muesli,Steel Cut,2019-09-09,2019-09-09,2019-09-08,2019,3 days,3,Friday,Monday,5,1
+US-2020-133312,2020-11-25,Email,West,Power Muesli,Steel Cut,2020-11-30,2020-12-02,2020-11-27,2020,5 days,5,Wednesday,Monday,3,3
+CA-2020-154137,2020-11-11,Email,East,Power Muesli,Steel Cut,2020-11-17,2020-11-18,2020-11-13,2020,6 days,6,Wednesday,Tuesday,3,4
+CA-2019-108875,2019-09-24,Facebook,West,Power Muesli,Steel Cut,2019-10-01,2019-10-02,2019-09-26,2019,7 days,7,Tuesday,Tuesday,2,5
+CA-2020-113873,2020-11-13,Sales,Central,Power Muesli,Steel Cut,2020-11-19,2020-11-20,2020-11-15,2020,6 days,6,Friday,Thursday,5,4
+CA-2019-131205,2019-09-04,Email,South,Power Muesli,Steel Cut,2019-09-09,2019-09-11,2019-09-06,2019,5 days,5,Wednesday,Monday,3,3
+CA-2019-158610,2019-09-19,Email,East,Power Muesli,Steel Cut,2019-09-23,2019-09-23,2019-09-21,2019,4 days,4,Thursday,Monday,4,2
+CA-2020-105543,2020-11-24,Sales,Central,Power Muesli,Steel Cut,2020-11-24,2020-11-25,2020-11-26,2020,0 days,0,Tuesday,Tuesday,2,0
+CA-2020-133620,2020-11-13,Email,East,Power Muesli,Steel Cut,2020-11-18,2020-11-20,2020-11-15,2020,5 days,5,Friday,Wednesday,5,3
+CA-2020-121160,2020-11-04,Facebook,Central,Power Muesli,Steel Cut,2020-11-04,2020-11-04,2020-11-06,2020,0 days,0,Wednesday,Wednesday,3,0
+CA-2020-149160,2020-11-23,Sales,Central,Power Muesli,Super Fibre Boost,2020-11-26,2020-11-27,2020-11-25,2020,3 days,3,Monday,Thursday,1,3
+CA-2019-110023,2019-09-09,Email,East,Power Muesli,Super Fibre Boost,2019-09-11,2019-09-11,2019-09-11,2019,2 days,2,Monday,Wednesday,1,2
+CA-2019-112893,2019-09-09,Email,West,Power Muesli,Super Fibre Boost,2019-09-13,2019-09-16,2019-09-11,2019,4 days,4,Monday,Friday,1,4
+CA-2020-154732,2020-11-05,Sales,Central,Power Muesli,Super Fibre Boost,2020-11-09,2020-11-09,2020-11-07,2020,4 days,4,Thursday,Monday,4,2
+CA-2020-153654,2020-11-24,Sales,South,Power Muesli,Super Fibre Boost,2020-11-26,2020-11-27,2020-11-26,2020,2 days,2,Tuesday,Thursday,2,2
+US-2020-136707,2020-11-12,Sales,West,Power Muesli,Super Fibre Boost,2020-11-16,2020-11-16,2020-11-14,2020,4 days,4,Thursday,Monday,4,2
+CA-2020-107125,2020-11-27,Email,West,Power Muesli,Super Fibre Boost,2020-12-02,2020-12-04,2020-11-29,2020,5 days,5,Friday,Wednesday,5,3
+CA-2020-131254,2020-11-19,Email,Central,Power Muesli,Super Fibre Boost,2020-11-23,2020-11-23,2020-11-21,2020,4 days,4,Thursday,Monday,4,2
+US-2019-101616,2019-09-03,Sales,South,Power Muesli,Super Fibre Boost,2019-09-06,2019-09-06,2019-09-05,2019,3 days,3,Tuesday,Friday,2,3
+CA-2020-163874,2020-11-10,Sales,West,Power Muesli,Super Fibre Boost,2020-11-12,2020-11-13,2020-11-12,2020,2 days,2,Tuesday,Thursday,2,2
+CA-2019-163202,2019-09-27,Sales,East,Power Muesli,Super Fibre Boost,2019-10-02,2019-10-04,2019-09-29,2019,5 days,5,Friday,Wednesday,5,3
+CA-2020-105130,2020-11-21,Sales,West,Power Muesli,Super Fibre Boost,2020-11-27,2020-11-30,2020-11-23,2020,6 days,6,Saturday,Friday,6,4
+CA-2019-132479,2019-09-24,Sales,Central,Power Muesli,Super Fibre Boost,2019-09-26,2019-09-27,2019-09-26,2019,2 days,2,Tuesday,Thursday,2,2
+CA-2020-103352,2020-11-27,Email,East,Power Muesli,Super Fibre Boost,2020-11-30,2020-12-02,2020-11-29,2020,3 days,3,Friday,Monday,5,1
+CA-2020-118122,2020-11-17,Sales,West,Power Muesli,Super Fibre Boost,2020-11-24,2020-11-25,2020-11-19,2020,7 days,7,Tuesday,Tuesday,2,5
+US-2020-168802,2020-11-03,Sales,West,Power Muesli,Super Fibre Boost,2020-11-09,2020-11-12,2020-11-05,2020,6 days,6,Tuesday,Monday,2,4
+CA-2019-168557,2019-09-19,Sales,West,Power Muesli,Super Fibre Boost,2019-09-23,2019-09-25,2019-09-21,2019,4 days,4,Thursday,Monday,4,2
+CA-2019-126284,2019-09-20,Email,Central,Power Muesli,Super Fibre Boost,2019-09-24,2019-09-25,2019-09-22,2019,4 days,4,Friday,Tuesday,5,2
+CA-2020-163188,2020-11-07,Email,Central,Power Muesli,Super Fibre Boost,2020-11-09,2020-11-09,2020-11-09,2020,2 days,2,Saturday,Monday,6,0
+CA-2020-121818,2020-11-20,Email,South,Power Muesli,Super Mega Protein,2020-11-23,2020-11-23,2020-11-22,2020,3 days,3,Friday,Monday,5,1
+CA-2019-130407,2019-09-02,Email,East,Power Muesli,Super Mega Protein,2019-09-06,2019-09-09,2019-09-04,2019,4 days,4,Monday,Friday,1,4
+CA-2020-165029,2020-11-26,Sales,South,Power Muesli,Super Mega Protein,2020-11-30,2020-12-02,2020-11-28,2020,4 days,4,Thursday,Monday,4,2
+CA-2019-164350,2019-09-10,Facebook,South,Power Muesli,Super Mega Protein,2019-09-12,2019-09-13,2019-09-12,2019,2 days,2,Tuesday,Thursday,2,2
+CA-2020-146724,2020-11-20,Email,Central,Power Muesli,Super Mega Protein,2020-11-27,2020-11-30,2020-11-22,2020,7 days,7,Friday,Friday,5,5
+CA-2020-138163,2020-11-17,Email,East,Power Muesli,Super Mega Protein,2020-11-20,2020-11-20,2020-11-19,2020,3 days,3,Tuesday,Friday,2,3
+CA-2020-112529,2020-11-19,Sales,Central,Power Muesli,Super Mega Protein,2020-11-23,2020-11-23,2020-11-21,2020,4 days,4,Thursday,Monday,4,2
+CA-2019-169971,2019-09-04,Email,Central,Power Muesli,Super Mega Protein,2019-09-09,2019-09-11,2019-09-06,2019,5 days,5,Wednesday,Monday,3,3
+CA-2020-117702,2020-11-28,Facebook,East,Power Muesli,Super Mega Protein,2020-11-30,2020-12-02,2020-11-30,2020,2 days,2,Saturday,Monday,6,0
+CA-2020-123701,2020-11-24,Email,West,Power Muesli,Super Mega Protein,2020-11-27,2020-11-27,2020-11-26,2020,3 days,3,Tuesday,Friday,2,3
+US-2020-153633,2020-11-13,Email,South,Power Muesli,Super Mega Protein,2020-11-18,2020-11-20,2020-11-15,2020,5 days,5,Friday,Wednesday,5,3
+CA-2020-162096,2020-11-10,Facebook,West,Power Muesli,Super Mega Protein,2020-11-10,2020-11-12,2020-11-12,2020,0 days,0,Tuesday,Tuesday,2,0
+US-2020-145597,2020-11-02,Sales,Central,Power Muesli,Super Mega Protein,2020-11-05,2020-11-06,2020-11-04,2020,3 days,3,Monday,Thursday,1,3
+CA-2020-159135,2020-11-04,Facebook,South,Power Muesli,Super Mega Protein,2020-11-09,2020-11-12,2020-11-06,2020,5 days,5,Wednesday,Monday,3,3
+CA-2020-137505,2020-11-24,Email,West,Toasted Muesli,Sweetened,2020-11-24,2020-11-25,2020-11-26,2020,0 days,0,Tuesday,Tuesday,2,0
+US-2019-110170,2019-09-27,Sales,Central,Toasted Muesli,With Fruit,2019-10-03,2019-10-04,2019-09-29,2019,6 days,6,Friday,Thursday,5,4
+CA-2020-124674,2020-11-17,Email,Central,Toasted Muesli,With Fruit,2020-11-23,2020-11-25,2020-11-19,2020,6 days,6,Tuesday,Monday,2,4
+CA-2019-106243,2019-09-30,Email,East,Toasted Muesli,With Fruit,2019-10-04,2019-10-07,2019-10-02,2019,4 days,4,Monday,Friday,1,4
+CA-2020-124765,2020-11-25,Email,South,Toasted Muesli,With Fruit,2020-11-30,2020-12-02,2020-11-27,2020,5 days,5,Wednesday,Monday,3,3
+CA-2019-166772,2019-09-20,Facebook,West,Toasted Muesli,With Fruit,2019-09-24,2019-09-25,2019-09-22,2019,4 days,4,Friday,Tuesday,5,2
+CA-2020-161018,2020-11-09,Facebook,East,Toasted Muesli,With Fruit and Nuts,2020-11-11,2020-11-13,2020-11-11,2020,2 days,2,Monday,Wednesday,1,2
+CA-2020-153339,2020-11-03,Sales,South,Toasted Muesli,With Fruit and Nuts,2020-11-05,2020-11-06,2020-11-05,2020,2 days,2,Tuesday,Thursday,2,2
+US-2019-100566,2019-09-03,Facebook,Central,Toasted Muesli,With Fruit and Nuts,2019-09-09,2019-09-11,2019-09-05,2019,6 days,6,Tuesday,Monday,2,4
+US-2020-161193,2020-11-20,Email,East,Toasted Muesli,With Fruit and Nuts,2020-11-26,2020-11-27,2020-11-22,2020,6 days,6,Friday,Thursday,5,4
+CA-2020-107874,2020-11-21,Email,East,Toasted Muesli,With Fruit and Nuts,2020-11-27,2020-11-30,2020-11-23,2020,6 days,6,Saturday,Friday,6,4
+CA-2020-161739,2020-11-10,Sales,Central,Toasted Muesli,With Fruit and Nuts,2020-11-16,2020-11-18,2020-11-12,2020,6 days,6,Tuesday,Monday,2,4
+CA-2019-137176,2019-09-09,Facebook,Central,Toasted Muesli,With Fruit and Nuts,2019-09-16,2019-09-18,2019-09-11,2019,7 days,7,Monday,Monday,1,5
+CA-2020-108112,2020-11-15,Email,South,Toasted Muesli,With Fruit and Nuts,2020-11-23,2020-11-25,2020-11-17,2020,8 days,8,Sunday,Monday,7,5
+US-2020-141852,2020-11-09,Email,West,Toasted Muesli,With Fruit and Nuts,2020-11-16,2020-11-18,2020-11-11,2020,7 days,7,Monday,Monday,1,5
+US-2019-147340,2019-09-24,Sales,West,Toasted Muesli,With Fruit and Nuts,2019-09-24,2019-09-25,2019-09-26,2019,0 days,0,Tuesday,Tuesday,2,0
+CA-2019-134516,2019-09-20,Sales,South,Toasted Muesli,With Fruit and Nuts,2019-09-25,2019-09-27,2019-09-22,2019,5 days,5,Friday,Wednesday,5,3
+CA-2019-154235,2019-09-24,Email,Central,Toasted Muesli,With Fruit and Nuts,2019-09-30,2019-10-02,2019-09-26,2019,6 days,6,Tuesday,Monday,2,4
+CA-2019-129847,2019-09-02,Facebook,Central,Toasted Muesli,With Fruit and Nuts,2019-09-04,2019-09-04,2019-09-04,2019,2 days,2,Monday,Wednesday,1,2
+CA-2020-115448,2020-11-11,Email,South,Toasted Muesli,With Fruit and Nuts,2020-11-16,2020-11-16,2020-11-13,2020,5 days,5,Wednesday,Monday,3,3
+CA-2020-148985,2020-11-11,Facebook,West,Toasted Muesli,With Fruit and Nuts,2020-11-16,2020-11-18,2020-11-13,2020,5 days,5,Wednesday,Monday,3,3
+CA-2020-155621,2020-11-08,Sales,East,Toasted Muesli,With Fruit and Nuts,2020-11-16,2020-11-18,2020-11-10,2020,8 days,8,Sunday,Monday,7,5
+CA-2020-157448,2020-11-16,Email,West,Toasted Muesli,With Fruit and Nuts,2020-11-20,2020-11-23,2020-11-18,2020,4 days,4,Monday,Friday,1,4
+CA-2020-152142,2020-11-14,Sales,West,Toasted Muesli,With Nuts,2020-11-16,2020-11-18,2020-11-16,2020,2 days,2,Saturday,Monday,6,0
+US-2019-134488,2019-09-24,Email,East,Toasted Muesli,With Nuts,2019-10-01,2019-10-02,2019-09-26,2019,7 days,7,Tuesday,Tuesday,2,5
+CA-2020-103499,2020-11-20,Email,South,Toasted Muesli,With Nuts,2020-11-24,2020-11-25,2020-11-22,2020,4 days,4,Friday,Tuesday,5,2
+US-2020-165456,2020-11-30,Email,East,Toasted Muesli,With Nuts,2020-12-03,2020-12-04,2020-12-02,2020,3 days,3,Monday,Thursday,1,3
+US-2020-109610,2020-11-25,Sales,South,Toasted Muesli,With Nuts,2020-11-30,2020-12-02,2020-11-27,2020,5 days,5,Wednesday,Monday,3,3
